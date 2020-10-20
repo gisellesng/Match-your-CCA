@@ -1,4 +1,3 @@
-# CCA Personality Matching Test
 print("Title of program: CCA Matching Personality test")
 print()
 print("Welcome to DHS! Please answer the following questions truthfully and we'll suggest a CCA for you!")
